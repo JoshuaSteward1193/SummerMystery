@@ -17,5 +17,10 @@ namespace SummerMystery
         {            
             InitializeComponent();
         }
+
+        private void BtnNewGame_Clicked(object sender, EventArgs e)
+        {
+
+        }
     }
 }
